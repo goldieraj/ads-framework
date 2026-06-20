@@ -1,0 +1,20 @@
+graph TD
+    A[What type of product is it?] --> B(Physical Product / Gadget)
+    A --> C(Supplement / Consumable)
+    A --> D(Digital / Info)
+
+    B --> B1[Does it look cool/weird when used?]
+    B1 -- Yes --> B2[Format: Split-Screen Demonstration]
+    B1 -- No --> B3[Format: UGC Unboxing / Review]
+
+    C --> C1[Is the claim hard to believe?]
+    C1 -- Yes --> C2[Format: Doctor/Authority Persona]
+    C1 -- No --> C3[Format: Vulnerable Story / Confession]
+
+    D --> D1[Is it B2B or B2C?]
+    D1 -- B2B --> D2[Format: Screen-recording / Value Drop]
+    D1 -- B2C --> D3[Format: Text-on-Screen / B-Roll Montage]
+
+    classDef default fill:#f9f9f9,stroke:#333,stroke-width:2px;
+    classDef format fill:#cce5ff,stroke:#2196f3,stroke-width:2px;
+    class B2,B3,C2,C3,D2,D3 format;

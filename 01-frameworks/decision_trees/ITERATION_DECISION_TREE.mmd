@@ -1,0 +1,26 @@
+graph TD
+    A[Analyze Ad Performance Data] --> B{Is Hook Rate > 25%?}
+    
+    B -- No --> C{Is CTR > 1%?}
+    C -- No --> D[Diagnosis: Angle is dead. Kill ad. Write new angle.]
+    C -- Yes --> E[Diagnosis: Angle is good, Hook is bad. Test 5 new hooks for this angle.]
+    
+    B -- Yes --> F{Is CTR > 1%?}
+    F -- No --> G[Diagnosis: Hook is good, Body copy/Mechanism is bad. Keep hook, rewrite script.]
+    F -- Yes --> H{Is CPA profitable?}
+    
+    H -- No --> I[Diagnosis: Ad is good, Landing Page/Offer is failing. Fix funnel.]
+    H -- Yes --> J[Diagnosis: WINNER. Scale budget 20% every 48h.]
+    
+    J --> K{Is CPA rising after scale?}
+    K -- Yes --> L[Diagnosis: Ad Fatigue. Run Frankenstein Refresh.]
+    K -- No --> M[Keep scaling.]
+
+    classDef default fill:#f9f9f9,stroke:#333,stroke-width:2px;
+    classDef kill fill:#f8d7da,stroke:#f44336,stroke-width:2px;
+    classDef iterate fill:#fff3cd,stroke:#ff9800,stroke-width:2px;
+    classDef scale fill:#d4edda,stroke:#4caf50,stroke-width:2px;
+    
+    class D kill;
+    class E,G,I,L iterate;
+    class J,M scale;
