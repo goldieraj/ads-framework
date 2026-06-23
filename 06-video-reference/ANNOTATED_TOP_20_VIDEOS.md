@@ -6,7 +6,7 @@ This document provides beat-by-beat, timestamped breakdowns of the 20 highest-pe
 
 ---
 
-## 1. RejuvaCare - "Surgeon Confession" (File: `rejuvacare-surgeon-confession.mp4`)
+## 1. RejuvaCare - "Surgeon Confession" (File: `rejuvacare_video_1.mp4`)
 **Hook Type:** Authority Confession | **Format:** UGC / Fake Podcast
 
 | Timestamp | Visual Beat | Audio Beat | Psychological Purpose |
@@ -23,7 +23,7 @@ This document provides beat-by-beat, timestamped breakdowns of the 20 highest-pe
 
 ---
 
-## 2. HeartCalm - "The Firefighter" (File: `heartcalm-firefighter.mp4`)
+## 2. HeartCalm - "The Firefighter" (File: `heartcalm_new_001.mp4`)
 **Hook Type:** Identity/Tribal Label | **Format:** Story / UGC
 
 | Timestamp | Visual Beat | Audio Beat | Psychological Purpose |
@@ -56,7 +56,7 @@ This document provides beat-by-beat, timestamped breakdowns of the 20 highest-pe
 
 ---
 
-## 4. Alevia - "The Throwaway" (File: `alevia-throwaway.mp4`)
+## 4. Alevia - "The Throwaway" (File: `alevia_new_001.mp4`)
 **Hook Type:** Specific Curiosity Gap | **Format:** UGC / Native
 
 | Timestamp | Visual Beat | Audio Beat | Psychological Purpose |
@@ -72,7 +72,7 @@ This document provides beat-by-beat, timestamped breakdowns of the 20 highest-pe
 
 ---
 
-## 5. RejuvaCare - "Frustration Mirroring" (File: `rejuvacare-frustration.mp4`)
+## 5. RejuvaCare - "Frustration Mirroring" (File: `rejuvacare_video_2.mp4`)
 **Hook Type:** Vulnerability / Frustration | **Format:** Rant / Car Video
 
 | Timestamp | Visual Beat | Audio Beat | Psychological Purpose |
