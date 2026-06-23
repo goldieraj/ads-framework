@@ -2,7 +2,7 @@
 
 This document provides beat-by-beat, timestamped breakdowns of the 20 highest-performing video ads in the swipe vault. Use this to understand *why* these videos work, not just what they say.
 
-*Note: The raw video files for all of these are located in `06-video-reference/raw-videos/` and `10-zednilm1-reference/videos/`.*
+*Note: The raw video files for all of these are located in `06-video-reference/raw-videos/` .*
 
 ---
 
