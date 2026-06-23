@@ -1,61 +1,35 @@
-# Hermes Ad Bible
+# Ads Framework
 
-A comprehensive, research-backed system for creating, testing, and scaling direct-response Meta ads in the health, wellness, and gadget niches. Built from the analysis of **25,000+ real ads** across dozens of top-performing advertisers.
+A complete direct response ad creative system for Meta (Facebook/Instagram) ecommerce advertising.
 
-This is not a summary. This is the full operational playbook — every hook, every script structure, every visual pattern, every diagnosis protocol, and every reference example you need to go from blank page to scaled ad account.
+## Structure
 
----
-
-## Quick Navigation
-
-| Section | Purpose |
+| Folder | Purpose |
 |---|---|
-| [00-soul/](./00-soul/) | Brand identity, voice, persona system, tone library |
-| [01-frameworks/](./01-frameworks/) | Core strategic frameworks (Image, Video, Mechanism, Villain, Offer, Angles) |
-| [02-hook-library/](./02-hook-library/) | Categorized hooks with fill-in templates |
-| [03-script-vault/](./03-script-vault/) | Full annotated video scripts and advertorial copy |
-| [04-copy-vault/](./04-copy-vault/) | Complete primary text ads, link headlines, and advertorial bodies |
-| [05-visual-swipe/](./05-visual-swipe/) | Categorized reference images by type |
-| [06-video-reference/](./06-video-reference/) | Top-performing videos with beat-by-beat annotations |
-| [07-diagnosis/](./07-diagnosis/) | Performance diagnosis, ad fatigue detection, retargeting |
-| [08-production/](./08-production/) | AI production pipeline (HeyGen, ElevenLabs, B-roll) |
-| [09-competitor-intel/](./09-competitor-intel/) | Competitor database with page IDs, ad counts, angles |
-| [10-targeting/](./10-targeting/) | Audience playbook mapped to personas and angles |
-| [skills/](./skills/) | Manus AI skill files for automated ad creation |
-| [data/](./data/) | Raw CSVs, batch analyses, tracker |
+| `00-soul/` | Brand voice, tone, persona rules |
+| `01-frameworks/` | Strategy (mechanism, villain, angles, formats, offers) |
+| `02-hook-library/` | All hook formulas (paid + organic) |
+| `03-script-vault/` | Video script templates from winning ads |
+| `04-copy-vault/` | Full advertorials, primary text, headlines |
+| `05-visual-swipe/` | 375 reference images |
+| `06-video-reference/` | 165 reference videos + 25 annotated breakdowns |
+| `07-production/` | Assembly Line — 3-track system for producing ads |
+| `08-competitor-intel/` | Competitor database + market data |
+| `skills/` | SKILL.md — the AI routing logic (entry point) |
 
----
+## How to Use
 
-## How to Use This Repo
+1. Clone this repo
+2. Read `skills/hermes-ad-creation/SKILL.md` — that's the operating manual
+3. Give the AI a product brief
+4. It routes into Track 1 (images), Track 2 (short video), or Track 3 (long video)
+5. Output: ready-to-launch ad creatives
 
-**If you're starting from scratch:** Read the [Quick Start Guide](./QUICK_START_GUIDE.md).
+## Data
 
-**If you need hooks:** Browse [02-hook-library/](./02-hook-library/) and pick a category.
-
-**If you need full copy to model:** Open [04-copy-vault/](./04-copy-vault/) and find an advertorial in your niche.
-
-**If your ads are underperforming:** Go to [07-diagnosis/](./07-diagnosis/) and run the Kill/Scale/Iterate protocol.
-
-**If you need visual inspiration:** Browse [05-visual-swipe/](./05-visual-swipe/) by image category.
-
----
-
-## Research Base
-
-This framework is built on primary research from the following advertisers (among others):
-
-| Brand | Product Category | Ads Analyzed | Key Insight |
-|---|---|---|---|
-| RejuvaCare | Shoulder pain device | 720+ | Multi-persona scaling at massive volume |
-| HeartCalm | Heart monitor / smartwatch | 69+ | "Villain" positioning against Apple Watch |
-| BioRoot Labs / Dr Ruth White | Supplements (Turmeric, Liver) | 310+ | Doctor-authority UGC with mechanism focus |
-| PrimePath Solutions | Red light therapy (InfraBeam) | 50+ | NASA-backed mechanism + arthritis pain |
-| Gadgets Club | Neuropathy device / Berberine | 65+ | German market, clean product photography |
-| Nerve Support / Alevia / Mira | Neuropathy supplements | 15,000+ | Story-based hooks, affiliate model |
-| Rosabella | Heart health supplement | 500+ | Multi-page affiliate network model |
-
----
-
-## Contributing
-
-This is a living document. When you find a new winning ad, add it to the appropriate vault with annotations. When a framework needs updating based on new data, update it and note the change in the commit message.
+- 165 video ads (raw .mp4 files in `06-video-reference/raw-videos/`)
+- 375 image ads (in `05-visual-swipe/`)
+- 25 beat-by-beat annotated video breakdowns
+- 5 full advertorial templates
+- 13 hook formulas with templates
+- Complete framework docs for mechanism, villain, offer, and angle engineering
