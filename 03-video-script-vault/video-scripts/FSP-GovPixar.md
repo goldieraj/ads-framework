@@ -1,0 +1,19 @@
+# Fuel Save Pro — Verbatim Script
+
+**Source File:** `FSP-GovPixar.mp4`
+**Vertical:** Gadget/Tech
+**Format:** VSL Text-on-Screen
+**Duration:** 239s
+**Notes:** The ad uses a scarcity tactic by stating that the current version will be 'neutered' and replaced with a weaker one, urging immediate purchase. It also highlights a 'hidden fuel waste system' by car manufacturers as a problem that the product solves.
+
+---
+
+## Hook (Opening Lines)
+
+> There's a new next-gen fuel-saving device out there, and it's the most powerful one you'll ever own. But here's the bad news: in just a few weeks, major automotive companies and regulators will force the only company that makes it to completely neuter its design.
+
+---
+
+## Full Verbatim Script
+
+There's a new next-gen fuel-saving device out there, and it's the most powerful one you'll ever own. But here's the bad news: in just a few weeks, major automotive companies and regulators will force the only company that makes it to completely neuter its design. That means no more driving for free, no more skipping the gas station while everyone else spends fifty, sixty, eighty dollars every fill-up. The version they're replacing it with won't even come close. The current version called Fuel Save Pro is unlike anything you've ever witnessed. That's because it doesn't work like those gas station fuel additives you've wasted money on, or those engine tune-ups your mechanic swore would help, or any of those old-school mileage tricks that never actually saved you a dime. Instead, it uses advanced electromagnetic technology that overrides hidden components car manufacturers secretly installed in every vehicle built after two thousand and one, components that deliberately waste forty percent of the gas you pay for as fumes, so you have to keep filling up. Fuel Save Pro stops that waste completely, so every drop of gas you pay for actually moves your car forward instead of going straight out the exhaust as fumes. It's one hundred percent legal, completely plug-and-play, and people are driving for weeks on a single tank no matter what vehicle they own. Fuel Save Pro was originally developed by a former Ford engineer who discovered the hidden fuel waste system during his twenty-five years designing engines. But now everyday drivers finally have access to it. Big retailers like AutoZone and Advance Auto already refuse to carry it because it would destroy their fuel additive business overnight. And now the automotive lobby is pressuring regulators to shut it down completely. This current batch is the last time it will ever be sold at full power and unrestricted performance. Once the downgrade hits, no more driving for free, no more saving thousands a year on gas. The version they'll replace it with simply won't cut your fuel costs the way this one does. So while this powerhouse is still available, people are scrambling to grab one before the crackdown hits. This thing is built with industrial-grade components, so it's going to outlast your vehicle. Perfect for commuters, road trippers, seniors on fixed incomes, or anyone who's tired of handing their paycheck to the gas station every week. No more spending two hundred, three hundred, four hundred dollars a month just to get to work and back. No more choosing between filling your tank and paying your bills. No more planning your week around how much gas you can afford. You just plug it into your car, and within sixty seconds it starts saving you money automatically. One device works on any car made after nineteen ninety-six, and it pays for itself after a single drive. Here's the deal: this is the final batch of the original full power Fuel Save Pro. Once it's gone, the only version you'll be able to buy will be throttled, and it'll cost more, because once this batch sells out, you'll never see the original version again. So why risk paying more tomorrow for a weaker version when you can grab the original right now?

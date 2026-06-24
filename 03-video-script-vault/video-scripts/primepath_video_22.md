@@ -1,0 +1,19 @@
+# InfraBeam — Verbatim Script
+
+**Source File:** `primepath_video_22.mp4`
+**Vertical:** Pain Relief Device
+**Format:** VSL Text-on-Screen
+**Duration:** 227s
+**Notes:** The ad uses a narrative structure, starting with a military context, explaining the science, providing testimonials, and creating urgency around potential FDA reclassification.
+
+---
+
+## Hook (Opening Lines)
+
+> You can't have combat-ready soldiers on heavy painkillers. Foggy, slow, dependent. So military physicians turned to targeted red and near-infrared light therapy, delivering precise wavelengths directly to damaged tissue to trigger cellular repair at the source.
+
+---
+
+## Full Verbatim Script
+
+You can't have combat-ready soldiers on heavy painkillers. Foggy, slow, dependent. So military physicians turned to targeted red and near-infrared light therapy, delivering precise wavelengths directly to damaged tissue to trigger cellular repair at the source. The results were significant enough that the protocol stayed classified for years. Then a retired combat medic asked a question that changed everything. "Why should only soldiers and elite athletes have access to this?" He spent years miniaturizing the technology, adapting the exact protocols he used in the field, making it portable, making it affordable. He called it InfraBeam. Here's the science, and it's simpler than it sounds. Your cells contain mitochondria, the structures that produce cellular energy. When tissue is damaged or chronically inflamed, mitochondrial function slows, repair stalls, inflammation compounds. InfraBeam delivers two calibrated wavelengths, six hundred and sixty nanometers and eight hundred and fifty nanometers. The specific frequencies documented in over three thousand clinical studies to penetrate up to two inches beneath the skin and reactivate mitochondrial energy production in damaged tissue. Blood flow increases, inflammation drops. Your body's own repair process, the one that's been losing ground for years, finally has fuel. This isn't masking pain, it's healing the source of it. Professional sports teams pay thousands per session for this exact therapy in their recovery clinics. Navy SEALs, Olympic sprinters, Tour de France cyclists. This is the technology that keeps elite performers competing through injuries that would end most careers. InfraBeam delivers the same therapeutic wavelengths in a device that fits in your pocket. Forty-seven thousand Americans have already used it. Gary, a sixty-one-year-old former construction worker with bone-on-bone knee damage, used it for three weeks and canceled his surgical consultation. Linda, who had rheumatoid arthritis so advanced she couldn't open a jar, stopped mentioning the pain to her daughter because there was nothing left to mention. These aren't outliers. They're what happens when you stop masking pain and start giving your cells what they need to repair it. InfraBeam is precision-machined aerospace-grade aluminum, fifty-thousand-plus-hour lifespan, rechargeable, TSA-approved. Use it at home, at work, or in a hotel room at two AM when your back goes out and every option is closed. It ships with a sixty-day pain-free or it's free guarantee. Full refund if you're not moving better. No questions. Now, here's why right now matters. The FDA is actively reviewing the reclassification of high-output red light therapy devices as prescription medical equipment. Pharmaceutical lobbyists have been pushing this for two years. If it goes through, the price doubles and you'll need a doctor's appointment just to buy one. That's already why InfraBeam isn't sold on Amazon or in any retail store. Official site only. Right now it's seventy-nine dollars, down from one hundred and ninety-eight dollars. Sixty-day guarantee, no prescription required. Three of that doctor's patients showed up with the same device in three months. He stopped writing prescriptions that day. Click below before this price disappears.

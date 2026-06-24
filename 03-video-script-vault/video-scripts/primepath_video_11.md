@@ -1,0 +1,19 @@
+# InfraBeam — Verbatim Script
+
+**Source File:** `primepath_video_11.mp4`
+**Vertical:** Pain Relief Device
+**Format:** Testimonial
+**Duration:** 169s
+**Notes:** Uses a personal story as a hook, followed by a detailed explanation of the product's mechanism and social proof through testimonials. Also creates urgency by mentioning potential reclassification by FDA.
+
+---
+
+## Hook (Opening Lines)
+
+> My doctor had knee replacement surgery scheduled for me. Three months later, he canceled it himself. Then he asked me what I'd been doing differently.
+
+---
+
+## Full Verbatim Script
+
+My doctor had knee replacement surgery scheduled for me. Three months later, he canceled it himself. Then he asked me what I'd been doing differently. I reached into my bag and put a pen-sized device on his desk. He picked it up, turned it over, and said something I'll never forget. "I've had four patients bring this in this month. I've been dismissing it. I can't do that anymore." He didn't write me a prescription that day. First time in eleven years. That device is InfraBeam, and it didn't start in a wellness clinic or a supplement lab. It started in military field medicine. A combat medic spent over a decade using targeted red light therapy on soldiers in active deployment, environments where painkillers weren't an option and surgery wasn't available. The results were extraordinary. Injuries healing in days, chronic inflammation resolving without a single prescription. When he retired, he couldn't accept that civilians had no access to this. His own mother had arthritis. His brother had a herniated disc. Both had been told the same thing by their doctors. "We're managing your pain now, not eliminating it." He knew that wasn't the full story, so he built one you could hold in your hand. Here's why everything else failed you. Think about a plant kept in a dark room. It starves, not from lack of water or food, but from lack of the right light to trigger growth. Your damaged cells work the same way. Chronic pain lives two inches beneath your skin, in joint tissue, in bone, in cellular damage that heating pads, creams, and pills simply cannot reach. InfraBeam delivers two clinical wavelengths, six hundred and sixty nanometers and eight hundred and fifty nanometers, directly to that depth. Your cells absorb the energy. Repair kicks in. Inflammation drops. Not masking the pain, reaching the source of it. You know the morning, eyes open, and before you're even fully awake, you're already doing the inventory. Where does it hurt today? How bad? Can I get through work? You've built your whole life around managing it. You plan around it. You apologize for it. You've quietly stopped expecting it to change. Here's what's on the other side of three minutes a day. Customers describe waking up and forgetting to check, just getting up, walking to the kitchen without holding the wall, sleeping through the night, making plans without a contingency for bad days. Gary, sixty-four, canceled his knee replacement consultation after three weeks. Sandra hadn't slept flat in two years. Night eleven with InfraBeam, she slept in her own bed. She said she laid there twenty minutes just because she could. Forty-seven thousand people. Most told their pain was permanent. All proved it wasn't. Aerospace-grade aluminum, fifty-thousand-hour lifespan, size of a pen, three minutes per area, rechargeable, works anywhere. No prescription, no appointment, no refill. Right now, InfraBeam is fifty percent off on the official website, the only place to get it. Not Amazon, not CVS. Pharmaceutical lobbyists are actively pushing the FDA to reclassify devices like this as prescription-only. When that happens, this price is gone permanently. Every unit ships with a sixty-day pain-free or it's free guarantee. Full refund if it doesn't work, no questions. Click below. Sixty days, zero risk. The only question is how much longer you want to wait.

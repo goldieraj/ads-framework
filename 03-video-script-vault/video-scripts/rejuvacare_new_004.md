@@ -1,0 +1,19 @@
+# Rejuvacare Triple Method Shoulder Massager — Verbatim Script
+
+**Source File:** `rejuvacare_new_004.mp4`
+**Vertical:** Pain Relief Device
+**Format:** Testimonial
+**Duration:** 209s
+**Notes:** The ad uses a personal testimonial format, highlighting the narrator's severe shoulder pain, failed treatments, and eventual relief with the Rejuvacare device. It employs urgency with limited stock and offers a money-back guarantee.
+
+---
+
+## Hook (Opening Lines)
+
+> My shoulders hurt so bad that I cried putting on my bra every morning, but now I get dressed without even thinking about it. This was me just a few months ago, trapped in my own home with a shoulder so destroyed that I couldn't even put on a bra without crying.
+
+---
+
+## Full Verbatim Script
+
+My shoulders hurt so bad that I cried putting on my bra every morning, but now I get dressed without even thinking about it. This was me just a few months ago, trapped in my own home with a shoulder so destroyed that I couldn't even put on a bra without crying. Every movement felt like my joint was on fire, and I tried absolutely everything. Expensive cortisone shots that gave me two weeks of relief, and then it came roaring back twice as bad. Physical therapy twice a week where they pushed me to work through the pain until I left in tears. Acupuncture sessions that cost $120 each and only left me with more soreness. They even tried those miracle shoulder wraps and the special ergonomic pillows that promised overnight relief but did absolutely nothing. And my doctor didn't even sugarcoat it. She showed me my MRI results and said that my rotator cuff had severe wear and tear, creating that unbearable grinding and loss of mobility that made me completely dependent on others by evening. She said surgery followed by six to nine months of intense physical therapy was my only option. And the worst part? Even after spending $32,000, she said that I'd maybe get 70% of my range of motion back. And she told me about patients who never fully recovered. I was completely desperate, watching my daughter wash my hair in the kitchen sink like I was a child, when I decided to try the Rejuvacare Triple Method Shoulder Massager as my absolute last resort. I'll be honest, I thought it was probably another scam, but with their 90-day money back guarantee and my complete desperation, I figured that I had nothing to lose except more nights lying awake at 2:00 AM wondering if this was just my life now. And the moment I tried it, I actually felt something. Felt something different. Not just temporary relief, but a deep warmth that seemed to actually restore the blood flow that had been choked off in my shoulder for years. And after just five days, the throbbing pain that usually woke me up every night was noticeably reduced, and I could actually reach for things on the top shelf without bracing myself. Rejuvacare works by targeting the real source of the rotator cuff pain: the suffocated tissue in your shoulder that acts like a garden with a kinked hose, preventing proper blood flow and nutrients from reaching the muscles that desperately need it. By week two, I could wash my own hair in the shower again, and the constant aching that had been my daily companion for years was almost completely gone. And now I use it 12 minutes every evening when I read, and I have become obsessed with the relief that it brings me. My shoulder actually moves and feels normal again. And last weekend, I shocked everyone by picking up my grandson for the first time in over a year, something that I would have never done just months ago. And right now they're offering 60% off your first order, literally a fraction of the cost of just one cortisone shot. And when I ordered mine, they were down to their last few units in stock and I almost missed out. So don't wait until your shoulder steals your independence. Get Rejuvacare now and reclaim the life that shoulder pain took from you.
