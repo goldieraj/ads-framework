@@ -31,7 +31,7 @@ The repo has 8 folders. Do not read them all at once. Read them ONLY when you re
 | **2. Voice** | Set tone and persona | `00-soul/TONE_VOICE_LIBRARY.md`, `00-soul/PERSONA_SYSTEM.md` |
 | **3. Strategy** | Define mechanism/villain | `01-frameworks/MECHANISM_ENGINEERING.md`, `01-frameworks/VILLAIN_DISCOVERY.md` |
 | **4. Hooks** | Write opening hooks | `02-hook-library/HOOK_LIBRARY.md` |
-| **5. Templates**| Structure the body copy | `03-script-vault/` or `04-copy-vault/` |
+| **5. Templates**| Structure the body copy | `03-video-script-vault/` or `04-ad-copy-vault/` |
 | **6. Visuals** | Select visual style | `05-visual-swipe/` |
 | **7. Structure**| Model winning videos | `06-video-reference/ANNOTATED_TOP_20_VIDEOS.md` |
 | **8. Produce** | Execute Assembly Line | `07-production/MASTER_PROMPTS_ASSEMBLY_LINE.md` |

@@ -9,8 +9,8 @@ A complete direct response ad creative system for Meta (Facebook/Instagram) ecom
 | `00-soul/` | Brand voice, tone, persona rules |
 | `01-frameworks/` | Strategy (mechanism, villain, angles, formats, offers) |
 | `02-hook-library/` | All hook formulas (paid + organic) |
-| `03-script-vault/` | Video script templates from winning ads |
-| `04-copy-vault/` | Full advertorials, primary text, headlines |
+| `03-video-script-vault/` | Video script templates from winning ads |
+| `04-ad-copy-vault/` | Full advertorials, primary text, headlines |
 | `05-visual-swipe/` | 375 reference images |
 | `06-video-reference/` | 165 reference videos + 25 annotated breakdowns |
 | `07-production/` | Assembly Line — 3-track system for producing ads |

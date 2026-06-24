@@ -24,4 +24,4 @@ For beat-by-beat breakdowns of the top 25, see `ANNOTATED_TOP_20_VIDEOS.md`.
 - All videos are in `raw-videos/`
 - 25 of these have full beat-by-beat annotations in `ANNOTATED_TOP_20_VIDEOS.md`
 - Use as reference for pacing, visual style, hook structure, and production quality
-- Pair with `03-script-vault/` for copy templates that match the video structures
+- Pair with `03-video-script-vault/` for copy templates that match the video structures
