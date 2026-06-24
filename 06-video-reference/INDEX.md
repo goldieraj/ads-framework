@@ -220,7 +220,7 @@ How to Create High-Quality Static Ads That Instantl... |
 | `gerald_auto_ugc_05.mp4` | Fuel Save Pro | Talking Head / Direct Response | 75s | Last chance. 50% off ends tonight. 3,847 units left in stock. |
 | `gerald_auto_ugc_06.mp4` | Fuel Save Pro | UGC Testimonial | 55s | I was spending more on diesel than I was paying myself some weeks... |
 
-### Home Goods (5 videos)
+### Home Goods (5 videos + GrillMaster Pro copy swipe)
 
 | File | Product | Format | Duration | Hook |
 |---|---|---|---|---|
@@ -229,6 +229,8 @@ How to Create High-Quality Static Ads That Instantl... |
 | `zed_video_26.mp4` | Peekaboo Cat Cave | UGC | 21s | There's a reason this cat cave is all over your feed right now. |
 | `zed_video_37.mp4` | Down to Ground mattress cover | Animation/Pixar | 129s | I'm a grounding mat. Got me off Amazon for $40. Prime delivery, five stars. |
 | `zed_video_41.mp4` | Callie Custom Travel Tag | Demo | 15s | Tired of losing your luggage? Make it yours with a custom travel tag. Personaliz... |
+
+> **Copy Swipe (No Video):** GrillMaster Pro (Jeremy Kulter / GrillGearInsider.com) — 61 active ads, 7 angles, image + short UGC video formats. See `04-ad-copy-vault/primary-text-ads/grillmaster-pro-home-goods.md` for full copy breakdown and transferable hook templates.
 
 
 ### Pet Health (8 videos)
