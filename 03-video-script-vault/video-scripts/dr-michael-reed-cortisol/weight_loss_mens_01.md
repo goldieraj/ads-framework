@@ -1,0 +1,37 @@
+# Weight Loss Mens 01
+
+**Vertical:** Men's Health, Health Supplement, Weight Loss
+**Format:** Expert Authority, VSL Long-form
+**Duration:** 9:58 (598s)
+**Brand/Product:** dr-michael-reed-cortisol
+
+---
+
+## Hook (First 3-5 Seconds)
+
+You're a man, you're over 40, and you've got a beer belly.
+
+---
+
+## Verbatim Script
+
+You're a man, you're over 40, and you've got a beer belly. And you've probably been told it's just a part of getting older. Or maybe you've been told it's because you drink too much beer. Or maybe you've been told it's because you eat too much junk food. And you've probably tried to get rid of it. You've tried dieting. You've tried exercising. You've tried all the things. And it just won't go away. In fact, it just keeps getting bigger. And you're probably wondering why. Why is it that some guys can eat whatever they want and never get a beer belly? And other guys, like you, just look at a donut and gain five pounds. Well, I'm here to tell you that it's not your fault. And it's not because you're lazy. And it's not because you're not trying hard enough. It's because you have a fatty liver. And it's killing you. It's literally killing you. And it's not just about how you look. It's about your health. It's about your energy. It's about your testosterone. It's about your sex drive. It's about your confidence. It's about your life. And I'm going to show you how to fix it. I'm going to show you how to get rid of your beer belly. I'm going to show you how to get your energy back. I'm going to show you how to get your testosterone back. I'm going to show you how to get your sex drive back. I'm going to show you how to get your confidence back. I'm going to show you how to get your life back. And it's not going to involve dieting. And it's not going to involve exercising. And it's not going to involve any of the things you've tried before. It's going to involve something completely different. Something that your doctor won't tell you about. Something that the pharmaceutical companies don't want you to know about. Something that the food industry doesn't want you to know about. It's called choline. And it's the missing nutrient that's causing your fatty liver. And it's the missing nutrient that's causing your beer belly. And it's the missing nutrient that's causing all of your problems. And I'm going to show you how to get it back. I'm going to show you how to get your liver healthy again. I'm going to show you how to get rid of your beer belly. I'm going to show you how to get your life back. And it's going to happen fast. Within the first week, bloating decreases dramatically. Your gut feels less tight and swollen. Within two weeks, your belt moves in a notch. The hard distended belly starts softening. Within a month, the protruding gut is visibly smaller. Muscle tone returns to arms and shoulders. Within three months, the beer belly is gone or dramatically reduced. Your body composition shifts from skinny fat to lean. You look masculine again. Solid, strong. The way you're supposed to look. This isn't a fat burner or a detox. This is liver restoration. Your primary metabolic organ finally getting what it needs to function. But you need to know this. Do not buy random organ supplements on Amazon. The market is flooded with worthless products. Grain-fed beef from factory farms. Minimal choline content. Organs heated at high temperatures that destroy bioavailability. Capsules filled with rice flour and a trace amount of actual organ. They write 'grass-fed' and 'premium' on the label, then they fill it with garbage. It's the supplement industry playbook. Big promises, cheap ingredients, your money in their pocket. What makes ForgeBody different? 100% grass-fed, grass-finished beef from regenerative farms in New Zealand. Freeze-dried at low temperatures to preserve choline and all heat-sensitive nutrients. The same food that reversed Robert's fatty liver in 12 weeks. The same nutrition that eliminated his beer belly and restored his physique. Now available without the butcher, the cooking, or the taste. Here's the deal. Right now, ForgeBody is offering a 90-day guarantee. Take the Beef Organ Complex for three full months. If your gut doesn't shrink, if your arms don't regain muscle tone, send it back for a full refund. But I need to warn you. ForgeBody is a small operation. They source only from regenerative farms. They refuse to scale at the expense of quality. Their last restock sold out in 60 hours. If you click and they're gone, I'm sorry. It happens frequently. If you see them in stock, don't wait. Your liver is dying right now. Every day you wait is another day of fat accumulating in your liver cells. Every day is another day of swelling and inflammation. Every day is another day your gut gets bigger and your arms get smaller. The beer belly isn't harmless. It's liver failure you can see in the mirror. And the only way to reverse it is to give your liver the choline it's been starving for. Not through dieting. Not through exercise. Through nutrition. The same nutrition that kept your grandfather's liver healthy into old age. Click below and give your liver what it needs to clear the fat and start functioning again. Before it's too late.
+
+---
+
+## Key Beats
+
+1. [0:00 - 01:04] The Hook & Paradigm Shift: Shatters the normalization of the "dad bod" and "beer belly" by aggressively reframing it as active liver failure and fluid retention, using fear and urgency to capture attention.
+2. [01:04 - 01:50] Scientific Authority: Cites a Johns Hopkins study to validate the alarming claims, proving that physical appearance (the gut) is directly linked to severe internal organ damage (NAFLD, fibrosis).
+3. [01:50 - 02:49] The Biological Cascade: Educates the viewer on exactly *why* they look the way they do. Explains the 4-step process of how a fatty liver leads to muscle loss in limbs and fluid/fat accumulation in the abdomen.
+4. [02:49 - 04:05] The Missing Nutrient (Choline): Identifies the root cause of the problem (lack of dietary choline) and paints a picture of what happens when choline is reintroduced (the timeline of liver restoration and physical transformation).
+5. [04:05 - 05:42] The Relatable Case Study: Introduces "Robert," a 62-year-old who failed with traditional diet/exercise but reversed his severe liver issues and transformed his body simply by eating liver and eggs.
+6. [05:42 - 07:04] The Enemy (Synthetic Supplements & Food Industry): Explains why cheap store-bought supplements don't work (low absorption) and provides historical context on how the 1950s food industry caused this epidemic by demonizing organ meats.
+7. [07:04 - 08:04] The Solution (Product Reveal): Introduces ForgeBody Beef Organ Complex as the ultimate, convenient hack to get the necessary choline without having to eat raw liver or eggs. Outlines the timeline of expected results.
+8. [08:04 - 09:58] Differentiation, Guarantee & Urgency CTA: Warns against cheap Amazon knock-offs to build trust. Presents a risk-free 90-day guarantee, injects strong scarcity (small batches, sells out fast), and ends with a final, fear-driven call to action.
+
+---
+
+## CTA / Offer
+
+ForgeBody Beef Organ Complex (Grass-fed, freeze-dried beef liver, heart, and kidney from New Zealand) backed by a 90-day, full-refund guarantee if the user doesn't see a shrinking gut and returning muscle tone. CTA: Click below and give your liver what it needs to clear the fat and start functioning again. Before it's too late.

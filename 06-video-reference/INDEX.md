@@ -2,7 +2,7 @@
 
 ## Overview
 
-This folder contains **157 analyzed video ad files** organized by product vertical.
+This folder contains **188 analyzed video ad files** organized by product vertical.
 For beat-by-beat breakdowns of the top 25, see `ANNOTATED_TOP_20_VIDEOS.md`.
 For full verbatim scripts from each video, see `03-video-script-vault/`.
 
@@ -15,10 +15,10 @@ Any format can be applied to any vertical — these are production wrappers, not
 | Talking Head | 39 | Strong |
 | VSL Text-on-Screen | 32 | Strong |
 | Testimonial | 29 | Strong |
-| Animation/Pixar | 22 | Good |
+| Animation/Pixar | 23 | Good |
 | UGC | 16 | Good |
 | Demo | 14 | Good |
-| Interview/Podcast | 4 | Limited — lean on Film School annotations |
+| Interview/Podcast | 6 | Limited — lean on Film School annotations |
 | News-Style | 1 | Limited — lean on Film School annotations |
 
 ## Videos by Product Vertical
@@ -184,7 +184,7 @@ How to Build High-Converting Funnel Pages T... |
 How to Create High-Quality Static Ads That Instantl... |
 | `zed_video_46.mp4` | AI Ad Alchemists | Talking Head | 116s | Animation ads like this, this, this, this, this, and this are totally crushing i... |
 
-### Beauty/Skincare (6 videos)
+### Beauty/Skincare (12 videos)
 
 | File | Product | Format | Duration | Hook |
 |---|---|---|---|---|
@@ -195,7 +195,15 @@ How to Create High-Quality Static Ads That Instantl... |
 | `zed_video_49.mp4` | AVA Copper Peptides | UGC | 64s | Copper peptides, are you supposed to pin it or apply it directly to your scalp? ... |
 | `zed_video_56.mp4` | Detox Patch | Demo | 26s | What if you could reduce acne overnight without changing your skincare — just by... |
 
-### Auto (5 videos)
+| `beauty_seranova_01.mp4` | Seranova Anti-Aging Serum | Expert Authority | 216s | I was 58 years old when I discovered this... |
+| `beauty_seranova_02.mp4` | Seranova Anti-Aging Serum | Expert Authority | 152s | I've been a dermatologist for 25 years and this is the one anti-aging treatment... |
+| `beauty_seranova_03.mp4` | Seranova Anti-Aging Serum | UGC Testimonial / Talking Head | 42s | Whoever said this micro-infusion microneedling hurts, have you ever had a baby? |
+| `beauty_seranova_04.mp4` | Seranova Anti-Aging Serum | UGC / Product Showcase | 15s | Here's how to get this on a triple discount. Tap the orange shopping cart below. |
+| `beauty_seranova_05.mp4` | Seranova Anti-Aging Serum | UGC Testimonial | 215s | I'm 58 years old and I've tried everything to get rid of my wrinkles, from expen... |
+| `beauty_seranova_07.mp4` | Seranova Anti-Aging Serum | UGC Mashup | 125s | Once you hit 50, smoker's lines are permanent, right? WRONG |
+| `beauty_seranova_08.mp4` | Seranova Anti-Aging Serum | Product Showcase / Unboxing | 14s | Here's how to get this on a triple discount. |
+
+### Auto/Gadget (11 videos)
 
 | File | Product | Format | Duration | Hook |
 |---|---|---|---|---|
@@ -204,6 +212,13 @@ How to Create High-Quality Static Ads That Instantl... |
 | `gerald_video_2.mp4` | Fuel Save Pro | Talking Head | 365s | Did you know that your car is designed to waste 40% of the gas you put in it? |
 | `gerald_video_3.mp4` | Fuel Save Pro | Demo | 152s | My neighbor hasn't been to a gas station in four months. I thought he was lying ... |
 | `heartcalm_new_009.mp4` | Voltedge | Animation/Pixar | 45s | They call me Volt Edge and I'm here to expose the biggest theft happening in you... |
+
+| `gerald_auto_ugc_01.mp4` | Fuel Save Pro | Expert Authority | 364s | I was 58 years old when I discovered this... |
+| `gerald_auto_ugc_02.mp4` | Fuel Save Pro | VSL Long-form | 160s | There's a secret gas saving device out there, and it's the most powerful one you... |
+| `gerald_auto_ugc_03.mp4` | Fuel Save Pro | UGC Testimonial | 160s | This is the fuel saving device the government doesn't want you to know about. |
+| `gerald_auto_ugc_04.mp4` | Fuel Save Pro | UGC Testimonial | 365s | What if I told you there was a device that could eliminate your need for gas for... |
+| `gerald_auto_ugc_05.mp4` | Fuel Save Pro | Talking Head / Direct Response | 75s | Last chance. 50% off ends tonight. 3,847 units left in stock. |
+| `gerald_auto_ugc_06.mp4` | Fuel Save Pro | UGC Testimonial | 55s | I was spending more on diesel than I was paying myself some weeks... |
 
 ### Home Goods (5 videos)
 
@@ -215,6 +230,19 @@ How to Create High-Quality Static Ads That Instantl... |
 | `zed_video_37.mp4` | Down to Ground mattress cover | Animation/Pixar | 129s | I'm a grounding mat. Got me off Amazon for $40. Prime delivery, five stars. |
 | `zed_video_41.mp4` | Callie Custom Travel Tag | Demo | 15s | Tired of losing your luggage? Make it yours with a custom travel tag. Personaliz... |
 
+
+### Pet Health (8 videos)
+
+| File | Product | Format | Duration | Hook |
+|---|---|---|---|---|
+| `pet_health_canislabs_01.mp4` | CaniLabs Pet Health | VSL Long-form | 389s | "I'm a veterinarian. And for the last 10 years, I've been haunted by a pattern. ... |
+| `pet_health_canislabs_02.mp4` | CaniLabs Pet Health | VSL Long-form | 67s | What's actually happening inside your dog's heart when they cough at night? |
+| `pet_health_canislabs_03.mp4` | CaniLabs Pet Health | Expert Authority | 315s | You've been told that grain-free dog food is bad for your dog's heart. You've be... |
+| `pet_health_canislabs_04.mp4` | CaniLabs Pet Health | Animation/Pixar Style | 85s | Four compounds that fix a reactive dog's brain — starting in the gut. |
+| `pet_health_canislabs_05.mp4` | CaniLabs Pet Health | VSL Long-form | 390s | 79% of reactive dogs have gut dysfunction. Despite spending thousands on trainin... |
+| `pet_health_canislabs_06.mp4` | CaniLabs Pet Health | Expert Authority | 246s | Hi, I'm Dr. Rachel, a veterinary cardiologist, and I'm here to share with you th... |
+| `pet_health_canislabs_07.mp4` | CaniLabs Pet Health | Expert Authority | 390s | 79% of dog owners will euthanize their dog for reactivity, even after spending t... |
+| `pet_health_canislabs_08.mp4` | CaniLabs Pet Health | Expert Authority | 432s | Your dog is reactive, and the calming treat you just bought is making it worse. |
 ### Women's Health (2 videos)
 
 | File | Product | Format | Duration | Hook |
@@ -229,9 +257,19 @@ How to Create High-Quality Static Ads That Instantl... |
 | `zed_video_15.mp4` | Military Calisthenics Fat Burn Challenge | Talking Head | 300s | Press your hand against your belly. Pinch it. That soft layer you're feeling, th... |
 | `zed_video_57.mp4` | Peak Flow | Talking Head | 99s | Ah, Peak Flow is so expensive. I mean, it's just a tape, right? Why does it cost... |
 
-### Weight Loss (2 videos)
+### Weight Loss / Gut Health (12 videos)
 
 | File | Product | Format | Duration | Hook |
 |---|---|---|---|---|
 | `zed_video_50.mp4` | Night Shred Black Edition | UGC | 20s | WAKING UP WITH A FLATTER TUMMY BECAUSE I STARTED USING NIGHT SHRED BLACK |
 | `zed_video_54.mp4` | HYPERBURN | UGC | 21s | I ain't never rep a set, baby. And you know why. I can clean the gun for you. |
+| `weight_loss_mens_01.mp4` | Dr. Michael Reed Cortisol Fix | Expert Authority, VSL Long-form | 598s | You're a man, you're over 40, and you've got a beer belly. |
+| `weight_loss_mens_02.mp4` | Dr. Michael Reed Cortisol Fix | VSL Long-form / Kinetic Typography with Voiceover | 1201s | That's not a 'beer belly.' That's cortisol. Take your shirt off right now and lo... |
+| `weight_loss_mens_03.mp4` | Dr. Michael Reed Cortisol Fix | VSL Long-form | 592s | If you're a man over 40 with a beer belly, this is the most important video you'... |
+| `weight_loss_mens_04.mp4` | Dr. Michael Reed Cortisol Fix | Talking Head | 78s | If you put on weight just looking at a burger while your buddy eats whatever he ... |
+| `weight_loss_mens_05.mp4` | Dr. Michael Reed Cortisol Fix | Talking Head / Expert Authority | 80s | Before you spend over a thousand bucks a month on weight loss shots, here's why ... |
+| `weight_loss_mens_06.mp4` | Dr. Michael Reed Cortisol Fix | Talking Head / Expert Authority | 78s | Weight loss shots work... until you stop. Here's what it never fixes for men ove... |
+| `gut_health_weight_loss_01.mp4` | Grow Young Fitness | Talking Head / Expert Authority | 62s | Now if you are eating yogurt to get your probiotics, you are doing it all wrong.... |
+| `gut_health_weight_loss_02.mp4` | Grow Young Fitness | UGC Testimonial / Talking Head | 48s | I just found the best product for digestive health. Grow Young Fitness daily pro... |
+| `gut_health_weight_loss_03.mp4` | Grow Young Fitness | Podcast/Interview | 3692s | So when we get to post-menopause, we have those patterns into play, but if you'r... |
+| `gut_health_weight_loss_04.mp4` | Grow Young Fitness | Podcast/Interview | 3136s | On this episode, Sam Lebich is sharing exactly how she went from full-time teach... |

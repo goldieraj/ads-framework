@@ -1,0 +1,13 @@
+# Raw video files are too large for GitHub
+# They are stored locally and referenced by INDEX.md
+06-video-reference/raw-videos/*.mp4
+06-video-reference/raw-videos/*.MP4
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db

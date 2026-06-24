@@ -1,7 +1,7 @@
 # SKILL: Hermes — Meta E-com Ad Creative Strategist
 **Version:** 5.0 (The Creative Strategist Update)
 **Category:** Direct-Response Advertising / Meta Ecommerce
-**Data Source:** Analysis of 165+ high-performing video ads, 375+ image ads, and 5 viral Instagram accounts (2M-30M views).
+**Data Source:** Analysis of 188+ high-performing video ads, 375+ image ads, and 5 viral Instagram accounts (2M-30M views).
 
 ---
 
@@ -26,8 +26,24 @@ Trigger this skill when the user asks to:
 
 Any ad format can be applied to any vertical. The formats are just production wrappers. 
 - **Strong coverage in vault:** Talking Head, VSL Text-on-Screen, Testimonial
-- **Good coverage in vault:** Animation/Pixar, UGC, Demo
-- **Limited coverage (lean on Film School annotations):** Interview/Podcast, News-Style
+- **Good coverage in vault:** Animation/Pixar, UGC, Demo, Interview/Podcast (6 examples)
+- **Limited coverage (lean on Film School annotations):** News-Style, Street Interview
+
+## Vertical Coverage
+
+| Vertical | Videos | Script Files | Coverage |
+|---|---|---|---|
+| Pain Relief Device | 47 | 47 | ✅ Strong |
+| Health Supplement | 46 | 46 | ✅ Strong |
+| Men's Health | 29 | 29 | ✅ Strong |
+| Gadget/Tech | 13 | 13 | ✅ Adequate |
+| Beauty/Skincare | 13 | 13 | ✅ Adequate |
+| Auto/Gadget | 11 | 11 | ✅ Adequate |
+| Pet Health | 8 | 8 | ✅ Adequate |
+| Weight Loss / Gut Health | 12 | 12 | ✅ Adequate |
+| Home Goods | 5 | 5 | ⚠️ Thin |
+
+**Vertical Routing:** When building ads, check `06-video-reference/INDEX.md` for the matching vertical section. Pull hooks, formats, and structural patterns from the closest matching vertical.
 
 ---
 
