@@ -11,6 +11,59 @@ Feed these prompts into your LLM (ChatGPT, Claude, or Hermes).
 
 ---
 
+## ⚠️ Creative Diversity Mandate (Apply to Every Batch)
+
+> **Source:** Meta's AI-driven "Soulmate Theory" algorithm groups visually similar ads under the same **Entity ID**, causing them to cannibalize each other's reach — even if the copy is different. Two ads that look the same to Meta = one ad's worth of delivery.
+
+**Before finalizing any batch, verify that no two ads share the same Entity ID fingerprint.** Meta determines Entity ID using three signals, in order of weight:
+
+| Signal | Weight | What to Change |
+|---|---|---|
+| **Format** | Highest | VSL vs. UGC vs. Animation vs. Talking Head vs. Demo |
+| **Visual Vehicle / Hook** | High | Different actor, different setting, different opening visual |
+| **Persona** | Medium | Different avatar shown (age, gender, situation) |
+| Messaging / Copy | Low | Changing copy alone does NOT create a new Entity ID |
+
+### The Diversity Checklist (Run Before Every Batch)
+
+Before submitting a batch for production, confirm:
+
+- [ ] **No two ads use the same format** (e.g., do not submit 3 talking-head scripts with the same actor)
+- [ ] **No two ads open with the same visual vehicle** (same location + same person + same opening shot = same Entity ID)
+- [ ] **At least 2 different personas** are represented across a batch of 4+ ads
+- [ ] **At least 2 different formats** are represented across any batch of 3+ ads
+- [ ] **Long-form and short-form are treated as separate entities** (a 3-min VSL and a 30s cut-down of the same footage = same Entity ID — re-shoot the short with a different hook)
+
+### Batch Composition Rules
+
+| Batch Size | Minimum Format Variety | Minimum Persona Variety |
+|---|---|---|
+| 3 ads | 2 formats | 1 persona OK |
+| 5 ads | 3 formats | 2 personas |
+| 8+ ads | 4 formats | 3 personas |
+
+### The Differentiation Pyramid (Reference When Iterating)
+
+When an ad is fatiguing and needs a refresh, change elements from the **top of the pyramid down** — not from the bottom up:
+
+```
+        ┌─────────────────┐
+        │   1. FORMAT     │  ← Biggest impact. Switch VSL → UGC → Animation
+        ├─────────────────┤
+        │ 2. VISUAL HOOK  │  ← New actor, new setting, new opening shot
+        ├─────────────────┤
+        │  3. PERSONA     │  ← Different avatar (age, gender, situation)
+        ├─────────────────┤
+        │  4. PRODUCT     │  ← Different product angle or benefit
+        ├─────────────────┤
+        │  5. MESSAGING   │  ← Least impact. Copy-only changes = same Entity ID
+        └─────────────────┘
+```
+
+**Rule:** If an ad is fatiguing, start at the top. Changing only messaging (bottom) is wasted spend — Meta still treats it as the same ad.
+
+---
+
 ## Track 1: The Image Ad Auto-Launcher (100% Automated)
 
 **Purpose:** Runs the entire pipeline end-to-end for image ads. It analyzes the product, selects the best angles, writes the hooks, generates the ad copy, and outputs final text ready for immediate upload to Meta Ads Manager.
@@ -147,6 +200,7 @@ Provide:
 2. **The Losers:** Which ads died and WHY? (Where did the drop-off happen? Hook? CTR? Conversion?)
 3. **The Next Move:** Based on the diagnosis, what is the exact next batch of creatives we need to produce? 
    - If we found a winning angle but bad hooks → Suggest 5 new hooks for that angle.
-   - If we found a winning hook/angle but CPA is rising (fatigue) → Suggest a "Frankenstein" refresh (new B-roll, same audio).
-   - If everything failed → Suggest a completely new angle.
+   - If we found a winning hook/angle but CPA is rising (fatigue) → Apply the **Differentiation Pyramid**: change Format first (e.g., VSL → UGC), then Visual Hook (new actor/setting), then Persona. Do NOT just rewrite the copy — Meta treats copy-only changes as the same Entity ID.
+   - If everything failed → Suggest a completely new angle with a completely different format.
+4. **Entity ID Diversity Check:** Review the proposed next batch and confirm no two ads share the same Format + Visual Vehicle + Persona combination. Flag any that would receive the same Entity ID.
 ```
